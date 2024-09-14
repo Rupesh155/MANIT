@@ -1,0 +1,44 @@
+/* .two{
+    background-color: blue;
+} */
+
+
+/* p:nth-of-type(odd){
+    background-color: red;
+
+
+} */
+
+/* div{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    transition: 6s;
+} */
+
+/* div:hover{
+    background-color: green;
+    border-radius: 50%;
+} */
+
+
+
+
+/* px feColorMatrix */
+
+
+/* #parent{
+    height: 100vh; 
+    width: 100vw;
+    background-color: red;
+} */
+/* #child{
+    height: 50%;
+    width: 50%;
+    background-color: green;
+} */
+
+
+li{
+    font-size: 2em;
+}
