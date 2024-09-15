@@ -1,0 +1,102 @@
+/* div{
+    border:  2px solid green;
+    height: 100px;
+    padding: 30px;
+    margin: 30px;
+} */
+
+/* #parent{
+    border: 2px solid black;
+    height: 450px;
+
+
+} */
+/* .one{
+    height: 100px;
+    width: 100px;
+    transition: 3s;
+    border-radius: 50%;
+
+} */
+
+/* #parent:hover  .one{
+    margin-left: 905px;
+
+ 
+
+} */
+
+/* #parent div:nth-of-type(1){
+    height: 100px;
+    width: 100px;
+    background-color: salmon;
+    transition-timing-function: linear;
+
+} */
+
+/* #one{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    transition-timing-function: linear;
+
+} */
+
+ 
+/* #two{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    transition-timing-function: ease-out;
+
+} */
+
+/* #parent div:nth-of-type(3){
+    height: 100px;
+    width: 100px;
+    background-color:  red;
+    transition-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+
+} */
+
+/* #parent div:nth-of-type(4){
+    height: 100px;
+    width: 100px;
+    background-color:  green;
+    transition-timing-function: ease-in-out;
+
+} */
+
+
+/* 
+
+div{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+
+}
+div:hover{
+    animation-name: chhotabheem;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+
+}
+@keyframes chhotabheem {
+    0%{
+        background-color: greenyellow;
+        height: 500px;
+        width: 400px;
+    }
+    50%{
+        background-color: black;
+        height: 700px;
+        width: 100vw;
+    }
+    100%{
+        background-color: gold;
+        height: 100vh;
+        border-radius: 50%;
+    }
+    
+} */
